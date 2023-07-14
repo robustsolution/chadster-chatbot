@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "748001391660",
+    "project_id": "chatgpt-2e83e",
+    "storage_bucket": "chatgpt-2e83e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748001391660:android:f702ecb45b1515b4e14d89",
+        "android_client_info": {
+          "package_name": "ai.chadster.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748001391660-0e5ce8kmv50ga60qku5g1jq1738cncsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.chadster.mobile",
+            "certificate_hash": "fe2483ebe6c7259e60c8eafe57b76aaf10102ebe"
+          }
+        },
+        {
+          "client_id": "748001391660-veb1qqj1dri4cq61ck85n3s27m9i5072.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.chadster.mobile",
+            "certificate_hash": "0c26430ba5ac1b5f2dce305613f50f29b1bd5a10"
+          }
+        },
+        {
+          "client_id": "748001391660-di9ljq3njhj9l7knjl8kp8tofu3ntp7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrn7vJU8FmMuh1Jd8U2GSqzermsGDM63Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748001391660-di9ljq3njhj9l7knjl8kp8tofu3ntp7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748001391660-4af9dhkici0h3o7uo0ti24eq5torludf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ai.chadster.mobile",
+                "app_store_id": "1665164822"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

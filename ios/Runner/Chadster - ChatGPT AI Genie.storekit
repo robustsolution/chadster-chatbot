@@ -1,0 +1,139 @@
+{
+  "identifier" : "0F9070CD",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1665164822",
+    "_developerTeamID" : "F66PF7T5U5",
+    "_lastSynchronizedDate" : 697295667.27576399
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21157443",
+      "localizations" : [
+
+      ],
+      "name" : "Unlimited Access",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6445463414",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited AI for week",
+              "displayName" : "Weekly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ai.chadster.mobile.1week",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "1-week",
+          "subscriptionGroupID" : "21157443",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "59.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6445463309",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Access to AI for year",
+              "displayName" : "Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ai.chadster.mobile.1year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "1-Year",
+          "subscriptionGroupID" : "21157443",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6445544826",
+          "introductoryOffer" : {
+            "internalID" : "A4A586CB",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "1 Week Subscription ",
+              "displayName" : "Weekly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ai.chadster.mobile.3daytrial1week",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "3-day Free Trial /w 1 Week Sub",
+          "subscriptionGroupID" : "21157443",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "59.99",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "6445605301",
+          "introductoryOffer" : {
+            "internalID" : "E95B088E",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "Yearly Subscription",
+              "displayName" : "Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ai.chadster.mobile.3daytrial1year",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "3-day Free Trial /w 1 Year Sub",
+          "subscriptionGroupID" : "21157443",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
