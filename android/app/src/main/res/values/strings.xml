@@ -3,5 +3,5 @@
     <string name="facebook_app_id">586473243310456</string>
     <string name="app_name">Chadster</string>
     <string name="fb_login_protocol_scheme">fb586473243310456</string>
-    <string name="facebook_client_token">238615ccaebeee7e36b1109dc56ebc77</string>
+    <!-- <string name="facebook_client_token">238615ccaebeee7e36b1109dc56ebc77</string> -->
 </resources>

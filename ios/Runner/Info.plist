@@ -41,7 +41,7 @@
 	<key>FacebookAutoLogAppEventsEnabled</key>
 	<false/>
 	<key>FacebookClientToken</key>
-	<string>238615ccaebeee7e36b1109dc56ebc77</string>
+	<!-- <string>238615ccaebeee7e36b1109dc56ebc77</string> -->
 	<key>FacebookDisplayName</key>
 	<string>Chadster</string>
 	<key>LSApplicationQueriesSchemes</key>
