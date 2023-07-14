@@ -7,6 +7,11 @@ A new Flutter project.
 Apple App store 
 [Chadster - AI Chatbot](https://apps.apple.com/in/app/chadster-ai-chatbot/id1665164822?platform=iphone)
 
+![Simulator Screen Shot - iPhone 11 - 2021-02-18 at 15 28 01](https://github.com/BlueGeniusDev/flutter-AI-chat-app/blob/main/portfolio/1.PNG)
+![Simulator Screen Shot - iPhone 11 - 2021-02-18 at 15 29 28](https://github.com/BlueGeniusDev/flutter-AI-chat-app/blob/main/portfolio/2.PNG)
+![Simulator Screen Shot - iPhone 11 - 2021-02-18 at 15 30 25](https://github.com/BlueGeniusDev/flutter-AI-chat-app/blob/main/portfolio/3.PNG)
+![Simulator Screen Shot - iPhone 11 - 2021-02-18 at 15 31 08](https://github.com/BlueGeniusDev/flutter-AI-chat-app/blob/main/portfolio/4.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
